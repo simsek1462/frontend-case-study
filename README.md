@@ -9,7 +9,12 @@ Bu proje, Hyper Teknoloji API'si ile entegre edilen bir e-ticaret uygulaması ol
 - Favoriler: Ürünleri favorilerinize ekleyebilir ya da çıkarabilirsiniz.
 - Sepet: Ürünleri sepete ekleyebilir ya da sepetten çıkarabilirsiniz.
 - Responsive Tasarım: Hem masaüstü hem de mobil cihazlarda uyumlu çalışır.
-
-## Kurulum
+  
+## Kullanılan Teknolojiler
+- ReactJS: Uygulamanın temel yapısı.
+- Ant Design: UI bileşenleri.
+- Redux Toolkit: Kategori verilerini yönetmek için.
+- Axios: API ile veri iletişimi sağlamak için.
+# Kurulum
 
 Projeyi klonladıktan sonra projenin ana dizininde bağımlılıkları yüklemek için "npm install" komutunu çalıştırın. Daha sonra "setAuth.js" dosyasına gelerek token değişkenine geçerli bir token değeri tanımlayarak uygulamayı test edebilirsiniz.
